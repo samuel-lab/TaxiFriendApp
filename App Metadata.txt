@@ -1,0 +1,7 @@
+Additional App Metadata:
+
+Category: Utilities
+Minimum OS Version: iOS 15.0
+Languages: English
+Age Rating: 4+
+Price: Free 

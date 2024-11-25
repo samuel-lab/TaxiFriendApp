@@ -1,0 +1,11 @@
+TaxiFriend is the perfect app for anyone giving rides to family, friends, or colleagues and wanting to fairly track the costs. With its sleek, modern design and powerful features, TaxiFriend ensures you’re never out of pocket for fuel, time, or effort.
+
+Features:
+
+Real-Time Ride Tracking: Accurately measure distance, time, and cost during every ride.
+Cost Calculation Made Easy: Automatically calculate the amount owed, based on your preset vehicle settings.
+Preset Configurations: Save settings for different vehicles or scenarios, including gas consumption, gas prices, and profit margins.
+Ride History: View detailed summaries of past rides, perfect for keeping records or resolving payment disputes.
+Sleek, Intuitive UI: Navigate with ease through a beautifully designed interface that puts all the essential tools at your fingertips.
+Customizable Settings: Tailor the app to match your unique driving habits and requirements.
+TaxiFriend makes tracking and splitting ride costs effortless, so you can focus on enjoying the journey.

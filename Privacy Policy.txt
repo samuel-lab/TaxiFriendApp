@@ -1,0 +1,9 @@
+Privacy Policy for TaxiFriend
+
+TaxiFriend is committed to protecting your privacy. We only collect the minimum data needed to deliver our features and ensure your experience is seamless. Ride and cost data are stored locally on your device and are never shared with third parties.
+
+What We Collect:
+
+Location Data: Used for real-time ride tracking and distance calculation.
+Ride Details: Stored locally for your records and cost calculations.
+TaxiFriend does not use any third-party trackers or share your data externally. If you have questions, please contact us at support@taxifriend.com.
